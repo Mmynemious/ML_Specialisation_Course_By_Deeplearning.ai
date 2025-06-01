@@ -31,4 +31,44 @@ Each course folder contains weekly breakdowns with structured `.md` notes and so
 
 ---
 
+---
+
+## ✨ Goals
+
+- Reinforce foundational ML understanding
+- Document insights for future projects
+- Help other learners by open-sourcing my learning process
+- Explore real-world implementations inspired by the specialization
+
+---
+
+## 📚 Recommended Tools
+
+- 🧠 [Learn Prompting](https://learnprompting.org/) — if you're merging ML with GenAI
+- 🧮 [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [scikit-learn](https://scikit-learn.org/)
+- 📝 [Obsidian](https://obsidian.md/) — for note organization before Markdown export
+
+---
+
+## 🚀 How to Use This Repo
+
+If you're taking the specialization:
+
+1. Clone or star this repo
+2. Navigate to the course and week you're studying
+3. Compare your understanding, quiz answers, and diagrams
+4. Fork and build on it!
+
+---
+
+## 🧑‍💻 Author
+
+Created with curiosity and caffeine by [@Mmynemious](https://github.com/Mmynemious)  
+Feel free to fork, improve, or reach out if you're also on the ML journey.
+
+---
+
+> “Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.” – Abigail Adams
+
+
 
