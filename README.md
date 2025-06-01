@@ -65,6 +65,7 @@ If you're taking the specialization:
 
 Created with curiosity and caffeine by [@Mmynemious](https://github.com/Mmynemious)  
 Feel free to fork, improve, or reach out if you're also on the ML journey.
+>Disclaimer: the code snippets are from the freely available course on Coursera, the notes are my own.
 
 ---
 
