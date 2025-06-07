@@ -1,6 +1,3 @@
-# ML_Specialisation_Course_By_Deeplearning.ai
-A (hopefully) helpful guide for the ML course taught by Andrew Ng on Coursera
-
 # 🤖 Machine Learning Specialization Notes — by Andrew Ng (DeepLearning.AI + Stanford)
 
 Welcome to my public notes and code collection for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) taught by Andrew Ng, hosted by DeepLearning.AI and Stanford Online. This repository documents my learning journey — including key concepts, diagrams, implementation notes, and personal insights.
